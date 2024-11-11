@@ -1,0 +1,6 @@
+[ERROR]2024-11-01 19:35:36.035[main]dsutilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-01 19:35:36.041[main]dsutilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-01 19:35:36.044[main]dsutilities.LoggerLoad1)-Warning - Testing
+[ERROR]2024-11-01 19:37:25.304[main]dsutilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-01 19:37:25.310[main]dsutilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-01 19:37:25.313[main]dsutilities.LoggerLoad1)-Warning - Testing

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-01T19:37:24 EDT" name="Default suite" finished-at="2024-11-01T19:37:25 EDT" duration-ms="374">
+    <groups>
+    </groups>
+    <test started-at="2024-11-01T19:37:24 EDT" name="Default test" finished-at="2024-11-01T19:37:25 EDT" duration-ms="374">
+      <class name="dstestcases.LoggerTest">
+        <test-method signature="testError()[pri:0, instance:dstestcases.LoggerTest@293a5bf6]" started-at="2024-11-01T19:37:24 EDT" name="testError" finished-at="2024-11-01T19:37:25 EDT" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testError -->
+        <test-method signature="testInfo()[pri:0, instance:dstestcases.LoggerTest@293a5bf6]" started-at="2024-11-01T19:37:25 EDT" name="testInfo" finished-at="2024-11-01T19:37:25 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInfo -->
+        <test-method signature="testWarn()[pri:0, instance:dstestcases.LoggerTest@293a5bf6]" started-at="2024-11-01T19:37:25 EDT" name="testWarn" finished-at="2024-11-01T19:37:25 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWarn -->
+      </class> <!-- dstestcases.LoggerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
